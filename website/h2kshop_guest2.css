@@ -1,0 +1,243 @@
+
+a:visited {color:white; background-color:transparent; text-decoration:none}
+.header
+{
+	background-color:#555;
+	height: 50px;
+	width: 100%;
+}
+.than
+{
+	width:100%;
+	height: 1130px;
+}
+.content_regi
+{
+	
+	margin-top: 20px;
+	width:700px;
+	height: 600px;
+	background-color: rgba(0,0,0,0.2);
+
+}
+.content
+{
+	float: left;
+	margin-top: 20px;
+	margin-left: 100px;
+	width:700px;
+	height: 190px;
+	background-color: rgba(0,0,0,0.2);
+
+}
+.list_prod
+{
+	float: left;
+	margin-left: 100px;
+	margin-top: 20px;
+	width:700px;
+	height: 950px;
+	background-color: rgba(0,0,0,0.2);
+
+}
+.list_event
+{
+	float: right;
+	margin-right: 25px;
+	margin-top: 20px;
+	width:400px;
+	height: 450px;
+	background-color: rgba(0,0,0,0.2);
+
+}
+.list_sell
+{
+	float: right;
+	margin-right: 25px;
+	width:400px;
+	height: 700px;
+	background-color: rgba(0,0,0,0.2);
+
+}
+.cont_search
+{
+	margin: 20px;
+}
+.search1
+{
+	width: 400px;
+	height: 25px;
+}
+
+.search_msg
+{
+    margin-left: 3px;
+    width: 220px;
+    height: 25px;
+}
+
+.text_login
+{
+	width: 100px;
+}
+.msgTa
+{
+    margin-top: 3px;
+    margin-left: 3px;
+    width: 288px;
+    height: 175px;
+}
+.searchDiv
+{
+	float: left;
+	margin-top: 8px;
+	margin-left: 100px;
+}
+.login
+{
+	float: right;
+	margin-right: 50px;
+	margin-top: 12px;
+}
+.register
+{
+	float: right;
+	margin-right: 10px;
+	margin-top: 12px;
+}
+.cover
+{
+	width: 100%;
+	height: 120px;
+	font-size: 16px;
+}
+h6.ex1 {
+    margin-right: 2cm;
+}
+.logo
+{
+	padding-left: 100px;
+	padding-top: 20px;
+}
+.logo2
+{
+
+	padding-top: 20px;
+}
+
+.menu
+{
+	
+	width: 100%;
+	height: 70px;
+}
+
+.a1
+{
+	text-decoration: none;
+	text-align: center;
+    color: white;
+    font-size: 20px;
+    padding: 15px;
+    display:inline-block;
+    width: 180px;
+    height: 40px;
+    border-left: 1px black ridge;
+}
+.a2
+{
+    text-decoration: none;
+    text-align: left;
+    color: white;
+    font-size: 15px;
+    padding: 10px;
+    display:inline-block;
+    width: 150px;
+    height: 15px;
+
+}
+.a5
+{
+    text-decoration: none;
+    text-align: left;
+    color: white;
+    font-size: 15px;
+    padding: 10px;
+    display:inline-block;
+    width: 400px;
+    height: 150px;
+
+}
+
+
+
+
+
+.submenu
+{
+	margin-left: 100px;
+}
+.phan_hoi
+{
+	position: fixed;
+	bottom: 0px;
+	right: 100px;
+	width: 200px;
+	height: 50px;
+	background-color:#555;
+}
+.event_top
+{
+	width: 100%;
+	height: 40px;
+	background-color: #555;
+}
+
+.left_event
+{
+	margin-top: 10px;
+	float: left;
+	margin-left: 10px;
+	width: 120px;
+	height: 100px;
+}
+.right_event
+{
+	margin-top: 10px;
+	float: right;
+	margin-right: 10px;
+	width: 260px;
+	height: 100px;
+}
+.product1
+{
+	float: left;
+	margin-left: 20px;
+	margin-top: 20px;
+	width: 200px;
+	height: 200px;
+	background-color: white;
+}
+
+.order_list
+{
+	background-color: rgba(0,0,0,0.2);
+	width: 800px;
+	height: 1000px;
+	margin-top: 20px;
+}
+.slu
+{
+	width: 40px;
+	height: 15px;
+	background-color: rgba(0,0,0,0.2);
+}
+.slu2
+{
+	width: 300px;
+	height: 15px;
+	background-color: rgba(0,0,0,0.2);
+}
+
+
+
